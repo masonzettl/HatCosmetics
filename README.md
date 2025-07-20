@@ -1,3 +1,9 @@
+> [!WARNING]
+> This repository is no longer the active and being maintained.
+> **The active and maintaining repository can be found [here](https://github.com/Supermarcel10/HatCosmetics).**
+
+---
+
 **What does this plugin do?**
 
 HatCosmetics provides a simple way of implementing custom resource pack models using custom model data to your server. All the provided "hats" are put into a customizable GUI where the player can equip a hat, so long as they do not have actual armor on and they have permissions to that hat. On top of providing an easy way to obtain the custom models, there are features to ensure it stays on the player's head and not somewhere else.
